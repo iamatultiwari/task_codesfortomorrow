@@ -1,0 +1,22 @@
+{
+  "name": "codesfortomorrow",
+  "version": "1.0.0",
+  "description": "this is the task provided by codesfortomorrow",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "hii",
+    "atul",
+    "is",
+    "here"
+  ],
+  "author": "atul tiwari",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.7.1"
+  }
+}
